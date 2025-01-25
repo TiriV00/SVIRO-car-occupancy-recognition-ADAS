@@ -1,0 +1,14 @@
+
+path: /hpc/home/valerio.tiri/LABORS/adas_sviro/sviro_all   #dataset root dir
+train: images/train   # train images (relative to path)
+val: images/train  # validation images (relative to path)
+
+#classes
+names:
+  0: empty
+  1: infant in infant seat
+  2: child in child seat
+  3: adult
+  4: everyday object
+  5: empty infant seat
+  6: empty child seat
