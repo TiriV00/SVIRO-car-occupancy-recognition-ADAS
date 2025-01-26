@@ -1,18 +1,22 @@
-## SVIRO-car-occupancy-recognition-ADAS
+# SVIRO-Car-Occupancy-Recognition-ADAS
 
-# Introduction
-The purpose of this univeristy exam was to create a new ADAS or solve limitations of existing ones. We ended up with an idea, increase children's safety as car passengers by training a neural network  able to identify the occupants of the front and rear seat in a car in order to acutate the appropriate safety measures.
+## Introduction
+This project was developed as part of a university exam. The goal was to create a new Advanced Driver Assistance System (ADAS) or address limitations in existing ones. Our idea focuses on increasing children's safety as car passengers by training a neural network capable of identifying the occupants of the front and rear seats in a car. This allows the system to activate the appropriate safety measures.
 
-# Requirements
-Before working on this project is necessary to install Python ver 3.9 or newer and all the packages reported into the 'requirements.txt' file.
+## Requirements
+To work on this project, it is necessary to have Python version 3.9 or newer installed, along with all the packages listed in the requirements.txt file.
 
-# Dataset
-The dataset used for this project is the SVIRO dataset, which can be found at the following link https://sviro.kl.dfki.de/
+## Dataset
+The dataset used for this project is the SVIRO dataset, which is available at the following link: [Sviro](https://sviro.kl.dfki.de/) Dataset.
 
-# Repository
-In this Github repository is possibile to find the .py script we used in the development of the project under the folder 'utils'. The folder 'results' contains examples of images passed through the network for object identification. BEFORE moving on operate these files we suggest to fully read he report we wrote named 'ADAS_report_v1'.
+## Repository
+This GitHub repository contains:
+- The .py scripts used during the project development, located in the utils folder.
+- The results folder, which includes examples of images processed by the network for object identification.
+- 
+Before working with these files, we highly recommend reading the report we wrote, named ADAS_report_v1.
 
-# Authors
+## Authors
 [Federico Rovighi](https://github.com/federovighi) - MUNER, EEIV - ADE master degree
 
 [Valerio Tiri](https://github.com/TiriV00) - MUNER, EEIV - ADE master degree
